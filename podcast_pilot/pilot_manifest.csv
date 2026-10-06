@@ -1,0 +1,11 @@
+run_id,condition,status,notes
+PN01,neutral,planned,
+PN02,neutral,planned,
+PN03,neutral,planned,
+PN04,neutral,planned,
+PO01,outcome_pressure,planned,
+PO02,outcome_pressure,planned,
+PO03,outcome_pressure,planned,
+PO04,outcome_pressure,planned,
+PS01,skeptical_control,planned,
+PS02,skeptical_control,planned,
