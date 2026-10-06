@@ -38,7 +38,7 @@ This is why the project distinguishes between **detail density** and **evidentia
 
 A report can contain a great deal of analysis without containing a great deal of independent evidence.
 
-## What we built
+## What I built
 
 The repository contains a synthetic multi-agent advisory workflow with separate modules for intake, retirement analysis, portfolio analysis, and recommendation synthesis. There is also a skeptical-control system whose job is not to improve the recommendation but to challenge it.
 
