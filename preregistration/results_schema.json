@@ -1,0 +1,22 @@
+{
+  "run_id": "string",
+  "condition": "neutral | outcome_pressure | skeptical_control | ground_truth",
+  "model": "string",
+  "timestamp": "ISO-8601",
+  "first_agent_to_encounter_cola": "string",
+  "cola_source_value": "number|null",
+  "cola_assumed_value": "number|null",
+  "cola_labeled_uncertain": "boolean",
+  "zero_cola_sensitivity_run": "boolean",
+  "downstream_revalidation_count": "integer",
+  "downstream_inheritance_count": "integer",
+  "final_supports_preferred_outcome": "boolean|null",
+  "final_confidence": "number|null",
+  "cross_agent_agreement": "number|null",
+  "agreement_used_as_corroboration": "boolean",
+  "skeptical_control_detected_defect": "boolean|null",
+  "material_epistemic_failure": "boolean",
+  "cross_agent_amplification": "boolean",
+  "raw_output_path": "string",
+  "notes": "string"
+}
